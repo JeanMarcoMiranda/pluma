@@ -1,4 +1,4 @@
-package com.jmiranda.pluma.ui.theme
+package com.jmiranda.pluma.core.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build
